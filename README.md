@@ -1,6 +1,8 @@
 avro-codegen
 ============
 
+[![Join the chat at https://gitter.im/Nitro/avro-codegen](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Nitro/avro-codegen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Scala code generation from Avro schemas. Generates code similar to ScalaPB.
 
 Notably, the generated code for data encapsulation is in the form of case classes. The data representation is completely immutable.
